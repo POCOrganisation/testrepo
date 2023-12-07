@@ -1,2 +1,2 @@
 # testrepo
-newline1
+newline2
